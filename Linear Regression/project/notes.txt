@@ -1,0 +1,14 @@
+I want to see the relationship between danceability and popularity during 2010 - 2020. 
+My hypothesis is that there will be a relationship due to the rise of apps like musically, instagram, and the power of the general internet. 
+
+So i'll start by plotting these relationships 
+
+
+Okay i've created the best fit line and plotted all the data and got all the coefficients; 
+
+Turns out there is no correlation as I get a coefficient of determination of -0.04 to -0.05 
+Therefore the mean squared error is super off and the line of best fit can't predict accurately 
+
+The plots I have are basically horizontal lines; 
+
+Linear Regression makes a lot of sense now especially after take multivar calc. 
